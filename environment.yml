@@ -1,0 +1,8 @@
+name:
+	MLClasificacion
+channels:
+	- base
+	- conda-forge
+	- anaconda
+dependencies:
+	- jupyter
